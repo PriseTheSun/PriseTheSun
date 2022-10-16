@@ -17,7 +17,6 @@ Hello how are you today? Thank you for visiting my profile...And Prise de Sun â˜
   <img align="center" alt="Erik-VueJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg">
   <img align="center" alt="Erik-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
   <img align="center" alt="Erik-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="right" alt="Erik-pic" height="150" style="border-radius:50px;" src="https://giffiles.alphacoders.com/146/14693.gif?width=676&height=676">
 </div>
     
   
