@@ -96,7 +96,7 @@
   <img width="12"/>
 
   <!--github-->
-  <img src="https://devicon-website.vercel.app/api/github/original.svg" height="40" alt="github logo"  />
+  <img src="https://p7.hiclipart.com/preview/551/770/413/github-pages-logo-repository-fork-github.jpg" height="40" alt="github logo"  />
 
   <!--docker-->
   <img src="https://devicon-website.vercel.app/api/docker/original.svg" height="40" alt="docker logo"  />
