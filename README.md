@@ -60,7 +60,7 @@
   <img width="12" />
 
   <!--astrojs-->
-  <img src="https://devicon-website.vercel.app/api/astrojs/original.svg" height="40" alt="astrojs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="40" alt="astrojs logo"  />
 
   <!--angular-->
   <img src="https://devicon-website.vercel.app/api/angularjs/original.svg" height="40" alt="angular logo"  />
