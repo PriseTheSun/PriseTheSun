@@ -54,6 +54,10 @@
   <!--nuxtjs-->
   <img src="https://devicon-website.vercel.app/api/nuxtjs/original.svg" height="40" alt="nuxtjs logo"  />
   <img width="12" />
+
+  <!--angular-->
+  <img src="https://devicon-website.vercel.app/api/angularjs/original.svg" height="40" alt="nuxtjs logo"  />
+  <img width="12" />
 </div>
 
 ###
