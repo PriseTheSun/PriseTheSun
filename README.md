@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Tecnologias quais ja trabalhei, estou estudando ou tenho previo conhecimento.</h2>
+<h2 align="left">Stack & Ferramentas</h2>
 
 ###
 
