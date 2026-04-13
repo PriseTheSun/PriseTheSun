@@ -1,20 +1,20 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá! Sou Erik Araújo</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Sou um Desenvolvedor Front-End com 6+ anos de experiência construindo produtos digitais escaláveis em startups de tecnologia. Baseado em São Paulo 🇧🇷 — especialista em arquiteturas modernas com React, Vue.js, Next.js e Astro.js, unindo código limpo, alta performance e ótima experiência do usuário.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Criando bugs desde 2015 — e consertando a maioria desde 2016<br>📚 Atualmente aprendendo: Agentes de IA & integração com LLMs<br>🎯 Objetivo: Construir produtos web performáticos, acessíveis e bonitos<br>⚡ Curiosidade: Comecei como Analista de Sistemas em telecom antes de migrar pro front-end</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tecnologias quais ja trabalhei, estou estudando ou tenho previo conhecimento.</h2>
 
 ###
 
