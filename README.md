@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2015 — e consertando a maioria desde 2016<br>📚 Atualmente aprendendo: Agentes de IA & integração com LLMs<br>🎯 Objetivo: Construir produtos web performáticos, acessíveis e bonitos<br>⚡ Curiosidade: Comecei como Analista de Sistemas em telecom antes de migrar pro front-end</p>
+<p align="left">Iniciei minha jornada no desenvolvimento de software em 2015, construindo uma base sólida para a resolução de problemas complexos. Tenho forte direcionamento para a construção de produtos web performáticos, acessíveis e com excelência de design. Atualmente, estou aprofundando meus conhecimentos na área de back-end, com o objetivo de me tornar um desenvolvedor full-stack, além de explorar integrações modernas com agentes de Inteligência Artificial e LLMs.</p>
 
 ###
 
@@ -83,6 +83,23 @@
   <img src="https://devicon-website.vercel.app/api/figma/original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   
+</div>
+
+###
+
+###
+
+<h2 align="left">Redes Sociais</h2>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
 ###
