@@ -10,7 +10,7 @@ Hello how are you today? Thank you for visiting my profile...And Prise de Sun â˜
   <img align="center" alt="HTML" height="40" width="40" src="https://devicon-website.vercel.app/api/html5/plain-wordmark.svg?color=%23B4B4B4">
   
   <!--css-->
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS3" height="40" width="40" src="https://devicon-website.vercel.app/api/css3/plain-wordmark.svg?color=%23B4B4B4">
 
   <!--js-->
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
