@@ -56,7 +56,19 @@
   <img width="12" />
 
   <!--angular-->
-  <img src="https://devicon-website.vercel.app/api/angularjs/original.svg" height="40" alt="nuxtjs logo"  />
+  <img src="https://devicon-website.vercel.app/api/angularjs/original.svg" height="40" alt="angular logo"  />
+  <img width="12" />
+
+  <!--bootstrap-->
+  <img src="https://devicon-website.vercel.app/api/bootstrap/original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+
+  <!--bulma-->
+  <img src="https://devicon-website.vercel.app/api/bulma/plain.svg" height="40" alt="bulma logo"  />
+  <img width="12" />
+
+  <!--tailwind-->
+  <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" height="40" alt="tailwind logo"  />
   <img width="12" />
 </div>
 
