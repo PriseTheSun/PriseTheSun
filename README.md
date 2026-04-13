@@ -7,7 +7,7 @@ Hello how are you today? Thank you for visiting my profile...And Prise de Sun â˜
   
 <div style="display: inline_block"><br>
   <!--html-->
-  <img align="center" alt="HTML" height="40" width="40" src="https://devicon-website.vercel.app/api/html5/plain-wordmark.svg?color=%23B4B4B4">
+  <img align="center" alt="HTML" height="40" width="40" src="https://devicon-website.vercel.app/api/html5/plain-wordmark.svg">
   
   <!--css-->
   <img align="center" alt="CSS3" height="40" width="40" src="https://devicon-website.vercel.app/api/css3/plain-wordmark.svg">
