@@ -42,6 +42,18 @@
   <!--nextjs-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
+
+  <!--vuejs-->
+  <img src="https://devicon-website.vercel.app/api/vuejs/original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+
+  <!--vuetify-->
+  <img src="https://devicon-website.vercel.app/api/vuetify/original.svg" height="40" alt="vuetify logo"  />
+  <img width="12" />
+
+    <!--nuxtjs-->
+  <img src="https://devicon-website.vercel.app/api/nuxtjs/original.svg" height="40" alt="nuxtjs logo"  />
+  <img width="12" />
 </div>
 
 ###
