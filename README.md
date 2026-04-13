@@ -25,7 +25,7 @@ Hello how are you today? Thank you for visiting my profile...And Prise de Sun â˜
   <img align="center" alt="typescript" height="30" width="40" src="https://devicon-website.vercel.app/api/typescript/original.svg">
 
   <!--next-->
-  <img align="center" alt="next" height="30" width="40" src="https://devicon-website.vercel.app/api/nextjs/original-wordmark.svg">
+  <img align="center" alt="next" height="30" width="40" src="https://devicon-website.vercel.app/api/nextjs/original-wordmark.svg?color=%23B4B4B4">
 
   <!--vue-->
   <img align="center" alt="vue" height="30" width="40" src="https://devicon-website.vercel.app/api/vuejs/original.svg">
