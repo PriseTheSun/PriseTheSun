@@ -81,7 +81,7 @@
 
   <!--figma-->
   <img src="https://devicon-website.vercel.app/api/figma/original.svg" height="40" alt="figma logo"  />
-  <img width="12" top="10" />
+  <img width="12" top="80" />
   
 </div>
 
