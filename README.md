@@ -74,6 +74,16 @@
   <!--tailwind-->
   <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" height="40" alt="tailwind logo"  />
   <img width="12" />
+
+  <!--figma-->
+  <img src="https://devicon-website.vercel.app/api/figma/original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+
+  <!--jquery-->
+  <img src="https://devicon-website.vercel.app/api/jquery/original.svg" height="40" alt="jquery logo"  />
+  <img width="12" />
+
+  
 </div>
 
 ###
