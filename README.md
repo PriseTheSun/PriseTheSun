@@ -51,7 +51,7 @@
   <img src="https://devicon-website.vercel.app/api/vuetify/original.svg" height="40" alt="vuetify logo"  />
   <img width="12" />
 
-    <!--nuxtjs-->
+  <!--nuxtjs-->
   <img src="https://devicon-website.vercel.app/api/nuxtjs/original.svg" height="40" alt="nuxtjs logo"  />
   <img width="12" />
 </div>
