@@ -25,7 +25,7 @@ Hello how are you today? Thank you for visiting my profile...And Prise de Sun â˜
   <img align="center" alt="TypeScript" height="42" width="42" style="margin:0; filter: grayscale(1) brightness(0.9);" src="https://devicon-website.vercel.app/api/typescript/plain.svg?color=%23B4B4B4">
 
   <!--next-->
-  <img align="center" alt="Next.js" height="42" width="42" style="margin:0; filter: grayscale(1) brightness(0.9);" src="https://devicon-website.vercel.app/api/nextjs/plain-wordmark.svg?color=%23B4B4B4">
+  <img align="center" alt="Next.js" height="42" width="42" style="margin:0; filter: grayscale(1) brightness(0.9);" src="https://devicon-website.vercel.app/api/nextjs/original-wordmark.svg?color=%23B4B4B4">
 
   <!--vue-->
   <img align="center" alt="Vue.js" height="42" width="42" style="margin:0; filter: grayscale(1) brightness(0.9);" src="https://devicon-website.vercel.app/api/vuejs/plain.svg?color=%23B4B4B4">
