@@ -79,10 +79,57 @@
   <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" height="40" alt="tailwind logo"  />
   <img width="12" />
 
+  <!--materialui-->
+  <img src="https://devicon-website.vercel.app/api/materialui/original.svg" height="40" alt="materialui logo"  />
+  <img width="12" />
+
   <!--figma-->
   <img src="https://devicon-website.vercel.app/api/figma/original.svg" height="40" alt="figma logo"  />
-  <img width="12" top="80" />
+  <img width="12"/>
+
+  <!--git-->
+  <img src="https://devicon-website.vercel.app/api/git/original.svg" height="40" alt="git logo"  />
+  <img width="12"/>
+
+  <!--github-->
+  <img src="https://devicon-website.vercel.app/api/github/original.svg" height="40" alt="github logo"  />
+
+  <!--docker-->
+  <img src="https://devicon-website.vercel.app/api/docker/original.svg" height="40" alt="docker logo"  />
+  <img width="12"/>
+
+  <!--nodejs-->
+  <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" height="40" alt="nodejs logo"  />
+  <img width="12"/>
+
+  <!--express-->
+  <img src="https://devicon-website.vercel.app/api/express/original.svg" height="40" alt="express logo"  />
+  <img width="12"/>
+
+  <!--php-->
+  <img src="https://devicon-website.vercel.app/api/php/original.svg" height="40" alt="php logo"  />
+  <img width="12"/>
+
+  <!--mysql-->
+  <img src="https://devicon-website.vercel.app/api/mysql/original.svg" height="40" alt="mysql logo"  />
+  <img width="12"/>
+
+  <!--postgresql-->
+  <img src="https://devicon-website.vercel.app/api/postgresql/original.svg" height="40" alt="postgresql logo"  />
+  <img width="12"/>
+
+  <!--python-->
+  <img src="https://devicon-website.vercel.app/api/python/original.svg" height="40" alt="python logo"  />
+  <img width="12"/>
   
+  <!--jira-->
+  <img src="https://devicon-website.vercel.app/api/jira/original.svg" height="40" alt="jira logo"  />
+  <img width="12"/>
+
+  <!--bitbucket-->
+  <img src="https://devicon-website.vercel.app/api/bitbucket/original.svg" height="40" alt="bitbucket logo"  />
+  <img width="12"/>
+
 </div>
 
 ###
