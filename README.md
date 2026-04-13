@@ -19,7 +19,7 @@ Hello how are you today? Thank you for visiting my profile...And Prise de Sun â˜
   <img align="center" alt="Javascript" height="40" width="40" src="https://devicon-website.vercel.app/api/jquery/plain-wordmark.svg">
 
   <!--react-->
-  <img align="center" alt="React" height="30" width="40" src="https://devicon-website.vercel.app/api/react/original.svg">
+  <img align="center" alt="React" height="40" width="40" src="https://devicon-website.vercel.app/api/react/original-wordmark.svg">
 
   <!--typescript-->
   <img align="center" alt="typescript" height="30" width="40" src="https://devicon-website.vercel.app/api/typescript/original.svg">
