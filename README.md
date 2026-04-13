@@ -31,6 +31,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
 
+  <!--jquery-->
+  <img src="https://devicon-website.vercel.app/api/jquery/original.svg" height="40" alt="jquery logo"  />
+  <img width="12" />
+
   <!--typescript-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
@@ -78,11 +82,6 @@
   <!--figma-->
   <img src="https://devicon-website.vercel.app/api/figma/original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-
-  <!--jquery-->
-  <img src="https://devicon-website.vercel.app/api/jquery/original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-
   
 </div>
 
