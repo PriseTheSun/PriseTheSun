@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou um Desenvolvedor Front-End com 6+ anos de experiência construindo produtos digitais escaláveis em empresas de tecnologia. De São Paulo 🇧🇷, especialista em arquiteturas modernas com React, Vue.js, Next.js e Astro.js, unindo código limpo, alta performance e ótima experiência do usuário.</p>
+<p align="left">Front-End Developer com 6+ anos em startups de tecnologia, de São Paulo 🇧🇷. Trabalho principalmente com React, Vue.js, Next.js e Astro.js — com obsessão por performance, acessibilidade e interfaces que fazem sentido pra quem usa.</p>
 
 ###
 
