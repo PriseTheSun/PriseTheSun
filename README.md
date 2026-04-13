@@ -1,82 +1,39 @@
-# Erik-Araujo
-Hello how are you today? Thank you for visiting my profile...And Prise de Sun ☀️
-<div align="center">
-  <a href="https://github.com/PriseTheSun">
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is ... and I'm a ..., from ....</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
-  
-  
-<div align="center">
-  <h3>Principais tecnologias</h3>
-  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:16px; align-items:center; margin-top:10px;">
-    <!--html-->
-    <img align="center" alt="HTML" style="width:44px; height:44px; object-fit:contain;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
-    <!--css-->
-    <img align="center" alt="CSS3" style="width:44px; height:44px; object-fit:contain;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-    <!--js-->
-    <img align="center" alt="Javascript" style="width:44px; height:44px; object-fit:contain;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-    <!--jquery-->
-    <img align="center" alt="jQuery" style="width:44px; height:44px; object-fit:contain;" src="https://devicon-website.vercel.app/api/jquery/original.svg">
-
-    <!--react-->
-    <img align="center" alt="React" style="width:44px; height:44px; object-fit:contain;" src="https://devicon-website.vercel.app/api/react/original.svg">
-
-    <!--typescript-->
-    <img align="center" alt="TypeScript" style="width:44px; height:44px; object-fit:contain;" src="https://devicon-website.vercel.app/api/typescript/original.svg">
-
-    <!--next-->
-    <img align="center" alt="Next.js" style="width:44px; height:44px; object-fit:contain;" src="https://devicon-website.vercel.app/api/nextjs/original.svg">
-
-    <!--vue-->
-    <img align="center" alt="Vue.js" style="width:44px; height:44px; object-fit:contain;" src="https://devicon-website.vercel.app/api/vuejs/original.svg">
-
-    <!--vuetify-->
-    <img align="center" alt="Vuetify" style="width:44px; height:44px; object-fit:contain;" src="https://devicon-website.vercel.app/api/vuetify/original.svg">
-
-    <!--nuxt-->
-    <img align="center" alt="Nuxt.js" style="width:44px; height:44px; object-fit:contain;" src="https://devicon-website.vercel.app/api/nuxtjs/original.svg">
-
-    <!--node-->
-    <img align="center" alt="Node.js" style="width:44px; height:44px; object-fit:contain;" src="https://devicon-website.vercel.app/api/nodejs/original.svg">
-
-    <!--php-->
-    <img align="center" alt="PHP" style="width:44px; height:44px; object-fit:contain;" src="https://devicon-website.vercel.app/api/php/plain.svg">
-
-    <!--docker-->
-    <img align="center" alt="Docker" style="width:44px; height:44px; object-fit:contain;" src="https://devicon-website.vercel.app/api/docker/original.svg">
-
-    <!--angular-->
-    <img align="center" alt="Angular" style="width:44px; height:44px; object-fit:contain;" src="https://devicon-website.vercel.app/api/angularjs/plain.svg">
-
-    <!--tailwind-->
-    <img align="center" alt="Tailwind CSS" style="width:44px; height:44px; object-fit:contain;" src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg">
-
-    <!--bootstrap-->
-    <img align="center" alt="Bootstrap" style="width:44px; height:44px; object-fit:contain;" src="https://devicon-website.vercel.app/api/bootstrap/original.svg">
-
-    <!--bulma-->
-    <img align="center" alt="Bulma" style="width:44px; height:44px; object-fit:contain;" src="https://devicon-website.vercel.app/api/bulma/plain.svg">
-
-    <!--sass-->
-    <img align="center" alt="Sass" style="width:44px; height:44px; object-fit:contain;" src="https://devicon-website.vercel.app/api/sass/original.svg">
-
-    <!--figma-->
-    <img align="center" alt="Figma" style="width:44px; height:44px; object-fit:contain;" src="https://devicon-website.vercel.app/api/figma/original.svg">
-  </div>
-</div>
-    
-  
- 
-          
-  ##
-  
-<div>
-<!--linkedin-->
-  <a href="https://www.linkedin.com/in/araujoerik/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:erik.doctype@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-</div>
-  
- <img align="right" alt="Erik-pic" height="150" style="border-radius:50px;" src="https://giffiles.alphacoders.com/146/14693.gif?width=676&height=676">
+###
