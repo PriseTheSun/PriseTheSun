@@ -58,7 +58,11 @@
   <!--angular-->
   <img src="https://devicon-website.vercel.app/api/angularjs/original.svg" height="40" alt="angular logo"  />
   <img width="12" />
-
+  
+  <!--sass-->
+  <img src="https://devicon-website.vercel.app/api/sass/original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  
   <!--bootstrap-->
   <img src="https://devicon-website.vercel.app/api/bootstrap/original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
