@@ -16,7 +16,7 @@ Hello how are you today? Thank you for visiting my profile...And Prise de Sun â˜
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
   <!--jquery-->
-  <img align="center" alt="Javascript" height="30" width="40" src="https://devicon-website.vercel.app/api/jquery/plain-wordmark.svg?color=%23B4B4B4">
+  <img align="center" alt="Javascript" height="40" width="60" src="https://devicon-website.vercel.app/api/jquery/plain-wordmark.svg?color=%23B4B4B4">
 
   <!--react-->
   <img align="center" alt="React" height="30" width="40" src="https://devicon-website.vercel.app/api/react/original.svg">
