@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Iniciei minha jornada no desenvolvimento de software em 2015, construindo uma base sólida para a resolução de problemas complexos. Tenho forte direcionamento para a construção de produtos web performáticos, acessíveis e com excelência de design. Atualmente, estou aprofundando meus conhecimentos na área de back-end, com o objetivo de me tornar um desenvolvedor full-stack, além de explorar integrações modernas com agentes de Inteligência Artificial e LLMs.</p>
+<p align="left">Desde 2015 construindo produtos web com foco em performance, acessibilidade e design de qualidade. Hoje expando meu stack para back-end e exploro a integração de agentes de IA e LLMs em aplicações modernas.</p>
 
 ###
 
